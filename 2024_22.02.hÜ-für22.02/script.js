@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       if (username == 'Lukass' && usergender == 'geil' && usergroesseM == '1.74' && usergewichtKG == '74') {
           img1.style.visibility = "visible";
-          console.log("shown")
+          console.log("shown");
       }
 
       if (commentwert == 'Normalgewichtig') {
