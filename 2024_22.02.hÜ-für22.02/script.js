@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       }
 
-      if (username == 'seasalt' && usergender == 'UwU' && usergroesseM == 'e621' && usergewichtKG == '69') {
+      if (username == 'Lukass' && usergender == 'geil' && usergroesseM == '1.74' && usergewichtKG == '74') {
           img1.style.visibility = "visible";
           console.log("shown")
       }
