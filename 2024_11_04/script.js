@@ -49,9 +49,9 @@ class Person {
   }
   
   
-  const Mama = new Person("Elke Illmer", "m", 1.66, 52);
-  const Papa = new Person("Markus Breuss", "m", 1.80, 72);
-  const Schwester = new Person("Anna Breuss", "f", 1.7, 58)
+  const Mama = new Person("Katja Uccisic", "m", 1.66, 52);
+  const Papa = new Person("Alexander Indra", "m", 1.80, 72);
+  const Schwester = new Person("Xeni Indra", "f", 1.7, 58)
   
   console.log(Mama.toString());
   console.log(Mama.vorName());
